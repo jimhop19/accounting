@@ -1,0 +1,15 @@
+.inputBox{
+    margin-bottom: 30px;
+}
+input {
+    padding: 10px;
+    margin: 1px;
+}
+select{
+    padding: 10px;
+    margin: 1px;
+}
+button{
+    padding: 10px;
+    margin: 1px;
+}

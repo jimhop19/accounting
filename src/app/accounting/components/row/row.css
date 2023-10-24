@@ -1,0 +1,30 @@
+.rowDiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.information{
+    display: flex;
+}
+.rowButton{
+    margin: 5px;
+}
+p{
+    margin: 5px 20px;
+}
+@media (max-width:900px) {
+    p{
+        font-size: 10px;
+    }
+}
+.income{
+    color: red;
+}
+.outcome{
+    color: green;
+}
+.price{
+    width: 6vw;
+    text-align: right;
+}

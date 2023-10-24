@@ -1,0 +1,14 @@
+.main{    
+    text-align: center;
+    margin: 0 auto;
+    width: 80vw;    
+}
+@media (max-width:900px) {
+    .main{
+        width: 70vw;
+    }
+}
+p{
+    font-size: 20px;
+    color: #575757;
+}
