@@ -21,3 +21,13 @@ h2{
   text-decoration: none;
   color: #a6a6a6;
 }
+h3:hover{
+  cursor: pointer;
+  text-align: center;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 20px 30px 20px ;
+}
